@@ -14,7 +14,7 @@
 
 For assignment 02 you are going to build one (1) web page using your own HTML and CSS (no templates or frameworks) that satisfies all content and submission requirements for this assignment.
 
-All of your work must be submitted to your assignment 02 GitHub repository, and be hosted through GitHub pages.
+All of your work must be submitted to your assignment 02 GitHub repository, and must be hosted through GitHub pages.
 
 ## Details
 
